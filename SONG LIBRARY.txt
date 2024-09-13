@@ -1,0 +1,3963 @@
+SONG LIBRARY
+Song: tangerine
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: heaven
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: anthropology
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: fables of faubus
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: empathy
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: all the things you are
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: very early
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: birks works
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: all of you
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: in your quiet place
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: peggys blue skylight
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: memphis underground
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: seven steps to heaven
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: waltz (sirabhorn)
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: ballet
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: bright size life
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: sometime ago
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the more i see you
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: around again
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: sugar
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: de pois do amor o vazio
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: but beautiful
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: i remember clifford
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: turn out the stars
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: my ship
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: afro blue
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: b rhythm changes
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: dont blame me
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: black diamond
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: a rhythm changes
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: walter l
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the song is you
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: dolphin dance
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: broadway
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: lucky southern
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: it dont mean a thing (if it aint got that swing)
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: waltz for a lovely wife
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: upper manhattan medical group
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: yesterdays
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: mevlevia
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: glorias step
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: nonsequence
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: bye bye blackbird
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: unquity road
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: i got it bad (and that aint good)
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: georgia on my mind
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: my little boat  (o barquinho)
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: what is this thing called love
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: chelsea bridge
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: you are the sunshine of my life
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: straight no chaser
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: golden lady
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: easy living
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: i love you
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: moments notice
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: armageddon
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: man in the green shirt
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: doxy
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: spring is here
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: bb rhythm changes
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: a family joy
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: if you never come to me
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: days and nights waiting
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: take five
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: mallet man
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: grand central
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: my little suede shoes
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: molten glass
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: feelings and things
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: g rhythm changes
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: db rhythm changes
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: shades of light
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: black narcissus
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: house of jade
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: country roads
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: elizete
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: ruby my dear
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: little waltz
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: when i fall in love
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: mood indigo
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: sweet henry
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: c rhythm changes
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: juju
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: blues in the closet
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: skylark
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: song for my father
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: boplicity
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: eighty one
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: footprints
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: what am i here for
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: perdido
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: space circus (part 1)
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: grow your own
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the night has a thousand eyes
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: look to the sky
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: angel eyes
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: out of nowhere
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: fly me to the moon
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: trance
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: lets cool one
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: afternoon in paris
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: red clay
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: cold duck time
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: hello, young lovers
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: cotton tail
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: pent up house
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: goodbye pork pie hat
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: song
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: giant steps
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: smile
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: secret love
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: honeysuckle rose
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: wildflower
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: in walked bud
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: untitled (second thoughts)
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: freddie freeloader
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: beneath it all
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: relaxin at camarillo
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: i got rhythm
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: im your pal
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: some skunk funk
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: memories of tomorrow
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: lush life
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: airegin
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: mahjong
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: when sunny gets blue
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: nicas dream
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: lazybird
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: lady bird
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: colors of chloe
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: sonnymoon for two
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: ill be seeing you
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: cool blues
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: ugly beauty
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: reincarnation of a lovebird
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: mysterious traveller
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: jump monk
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: indian lady
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: groovin high
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: sea journey
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: four on six
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: mr jin
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: recordame
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: seven come eleven
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: all of me
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: ida lupino
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: jelly roll
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: pussy cat dues
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: untitled
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: yesterday
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: train samba
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: stormy weather
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: star crossed lovers
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: just friends
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: delores
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: african flower
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: witch hunt
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: how deep is the ocean
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: its a raggy waltz
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: september in the rain
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: may dance
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: desert air
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: ive never been in love before
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: batterie
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: joy spring
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: my romance
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: without a song
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: hotel hello
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: butterfly
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: april joy
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: summertime
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: i let a song go out of my heart
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: follow your heart
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: nows the time
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: days of wine and roses
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: never let me go
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: pearlies swine
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: falling grace
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: four
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: im all smiles
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: in a mellow tone
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: midnight mood
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: yes or no
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: jamala
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: swedish pastry
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: montage
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: bags groove
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: donna lee
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: equipoise
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: triste
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: they cant take that away from me
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: iris
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: like someone in love
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: little sunflower
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: moon germs
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: moose the mooche
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: so what
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: prelude to a kiss
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: inside in
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: bernies tune
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: green mountains
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: fee fi fo fum
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: esp
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: someday my prince will come
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: saga of harrison crabfeathers
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: peris scope
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: nefertiti
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: walkin
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: blessed relief
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: think on me
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: a foggy day
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: tune up
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the nearness of you
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: well you neednt
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: looking back
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: kelo
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: things aint what they used to be
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: love for sale
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: corcovado
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: long as you know youre living yours
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the dolphin
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: tell me a bedtime story
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: hullo, bolinas
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: ab rhythm changes
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: black orpheus
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: heres that rainy day
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: my foolish heart
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: prince of darkness
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: serenade to a cuckoo
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: tough talk
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: 500 miles high
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: eiderdown
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: invitation
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: daahoud
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: wave
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: son of mr green genes
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: autumn leaves (les feuilles mortes)
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: israel
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: come sunday
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: gone with the wind
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: alone together
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: ladybird
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: django
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: i hear a rhapsody
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: along came betty
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: henninger flats
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: flags
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: good bait
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the sidewinder
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the shadow of your smile
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: peace
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: black monday
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: body and soul
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: impressions
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: there will never be another you
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: night dreamer
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: once i loved (amor em paz )
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: e rhythm changes
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: pithecanthropus erectus
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: meditation
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: resolution
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: take the a train
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: 502 blues
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: passion dance
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: wings of karma (excerpt)
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: st thomas
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: monks dream
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: captain marvel
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: cheryl
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: sandu
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: have you met miss jones
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: pee wee
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: 12 4 2 4/duplicities
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: one finger snap
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: cherokee
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: limehouse blues
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: corcovado (quiet nights of quiet stars)
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: polka dots and moonbeams
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: yardbird suite
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: day waves
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the sphinx
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: on the street where you live
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: chelsea bells
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: ornithology
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: windows
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: portsmouth figurations
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: billies bounce
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: pfrancing (no blues)
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: black orpheus (manha do carnaval)
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: garys waltz
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: dearly beloved
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: four winds
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: nardis
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: could it be you
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: june 15, 1967
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: broadway blues
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: all my tomorrows
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: satin doll
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: space circus (part 2)
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: black nile
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: steps
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: autumn in new york
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: alice in wonderland
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: woodyn you
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: watermelon man
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: a child is born
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: inchworm
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: how insensitive
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: and now, the queen
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: easy to love
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: lady be good
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: tones for joans bones
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: up jumped spring
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: time remembered
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: west coast blues
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: you dont know what love is
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: peaches en regalia
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: dear old stockholm
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: general mojos well laid plan
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: my one and only love
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: jinrikisha
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: hotel overture
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: alfie
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: interplay
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: sweet and lovely
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: sweet georgia bright
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: never will i marry
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: i cant get started
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: stolen moments
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: midwestern nights dream
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: skating in central park
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: blue monk
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: lie awake
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: nimbus
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: what was
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: speak no evil
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: blue in green
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: voyage
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: lament
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: eternal triangle
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: work song
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: half nelson
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the disguise
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: ceora
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: what are you doing the rest of your life
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: route 66
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: a night in tunisia
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: big nick
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: just squeeze me
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: scrapple from the apple
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: la fiesta
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: good evening mr & mrs america
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: lover man
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: if i should lose you
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: bluesette
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: you are too beautiful
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: tame thy pen
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: hasaans dream
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: beatrice
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: i remember you
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: ask me now
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: lester leaps in
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: misty
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: contemplation
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: just friends in f
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: gemini
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: all in love is fair
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the real guitarist (in the house)
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: perfect love
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: domino biscuit
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: im old fashioned
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: chega de saudade (no more blues)
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: fortune smiles
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: waltzin
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: how my heart sings
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: summer samba (samba de vero)
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: same shame
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: blue moon
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: icarus
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: sweeping up
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: exercise #3 (missouri uncompromised)
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: nostalgia in times square
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: dancing on the ceiling
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: milano
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: darn that dream
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: equinox
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: some other time
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: ana maria
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: in your own sweet way
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: taking a chance on love
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: all blues
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: three flowers
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: solar
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: open your eyes, you can fly
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: quiet now
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: road song
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: herzog
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: arise, her eyes
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: epistrophy
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the sorcerer
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: a fine romance
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: little niles
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: bitter suite in the ozone
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: scotch n soda
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: wait till you see her
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: recorda me
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: journey to recife
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: my ideal
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: chi chi
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: brownout
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: you and the night and the music
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: isotope
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: brainville
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: self portrait in three colors
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: hotel vamp
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: intrepid fox
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the blue room
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: las vegas tango
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: round midnight
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: i mean you
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: olhos de gato
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: willow weep for me
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: god bless the child
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: serenity
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: como en vietnam
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the raven
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: isnt it romantic
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: stuff
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: coral
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: orbits
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: d rhythm changes
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: stompin at the savoy
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: sing me softly of the blues
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: one note samba
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: tenor madness
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: seor mouse
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: exercise #6 (unity village)
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: vashkar
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: lullaby of birdland
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: sweet rain
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: whats new
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: liturgy
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: minority
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: how high the moon
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: fall
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: pinocchio
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: pensativa
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: remember
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: naima
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: freedom jazz dance
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: falling in love with love
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: long ago and far away
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: little bs poem
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the girl from ipanema
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the days of wine and roses
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: killer joe
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: el gaucho
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: well be together again
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: eb rhythm changes
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: semblence
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: ay, arriba
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: star eyes
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: well, you neednt
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: jordu
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: blues for alice
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: i could write a book
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the duke
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: beautiful love
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: lonnies lament
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: it could happen to you
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: sophisticated lady
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: solitude
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: plain jane
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the magician in you
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: my funny valentine
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: blue comedy
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: forest flower
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: countdown
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: embraceable you
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: this i dig of you
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: jitterbug waltz
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: gentle rain
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: miyako
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: inner urge
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: slowly gone, bygone
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: played twice
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: virgo
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: april in paris
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: spiral dance
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: just friends in g
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: michelle
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: freddie the freeloader
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: boston marathon
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: freight trane
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: hold out your hand
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: in a sentimental mood
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: a call for all demons
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: and on the third day
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: you stepped out of a dream
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: oleo
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: my favorite things
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: con alma
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: if i were a bell
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: hey there
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: canyon song
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: ill remember april
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: bessies blues
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: for heavens sake
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: ecclusiastics
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: im afraid
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: sweet georgia brown
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: chippie
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: mother of the dead man
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: waltz for debby
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: litha
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: ictus
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: chicken feathers
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: mack the knife
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: mr pc
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: reflections
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: crescent
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: maiden voyage
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: bewitched
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: as time goes by
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: dont get around much anymore
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: spain
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: blue bossa
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: night and day
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: central park west
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: au privave
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: you took advantage of me
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: stella by starlight
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: whisper not
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: f rhythm changes
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: lazy bird
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: on the sunny side of the street
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: deluge
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: indiana
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: confirmation
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: valse hot
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: conference of the birds
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the fields we know
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: leroy, the magician
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: if you could see me now
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: doin the pig
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: conception
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: moonchild
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: speak low
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: childrens song
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: desafinado
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: the way you look tonight
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: where are you
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: take the coltrane
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: pannonica
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: caravan
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: beauty and the beast
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: blue trane
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: on green dolphin street
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: i fall in love too easily
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: oliloqui valley
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: crystal silence
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: ju ju
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: dexterity
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: i should care
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: there is no greater love
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
+Song: goodbye porkpie hat
+	isLearned: False
+	genres: 
+	difficulty: None
+	last_played: None
+	PDFs: 
+	Recordings: 
