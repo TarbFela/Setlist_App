@@ -1,11 +1,20 @@
 import os
 import string
+from difflib import SequenceMatcher
 
 
 Genres = []
 with open("genres_library.txt",'r') as f:
     Genres = [ line[:-1] for line in f]
 print(Genres)
+
+def get_file_paths(directory, ftype="pdf"):
+    file_paths = []
+    for dirpath, _, filenames in os.walk(directory):
+        for filename in filenames:
+            if filename[-3:] != ftype: continue
+            file_paths.append(os.path.join(dirpath, filename))
+    return file_paths
 
 def name_cleanup(string):
     return string.lower().replace(
@@ -20,9 +29,13 @@ def name_cleanup(string):
         "?", ""
     ).replace(
         ".", ""
+    ).replace(
+        "'",""
+    ).replace(
+        ",",""
     )
 class Song:
-    def __init__(self, name_string_input):
+    def __init__(self, name_string_input, get_pdfs = False):
         name = name_cleanup(name_string_input)
         #ADD ALTERNATE NAME SUPPORT (parenthitcals)
 
@@ -33,13 +46,26 @@ class Song:
             "difficulty": None,
             "last_played": None,
         }
-        self.pdfs = []
+        if get_pdfs: self.find_pdfs()
+        else: self.pdfs = []
         self.recording_links = []
 
 
 
-    def find_pdfs(self):
-        pass
+    def find_pdfs(self, sim_thresh = 0.4, mode = "replace"):
+        fps = get_file_paths("../")
+        fps_weights = [
+            SequenceMatcher(
+                None, self.name, fp.split("/")[-1]
+            ).ratio() for fp in fps
+        ]
+        match_fps = []
+        for fp, sim in zip(fps, fps_weights):
+            if sim > sim_thresh: match_fps.append(fp)
+        if mode == "replace": self.pdfs = match_fps
+        elif mode == "append": self.pdfs.append(match_fps)
+        return match_fps
+
 
     def update_isLearned(self, learned : bool = True):
         self.tags["isLearned"] = learned
@@ -87,7 +113,8 @@ class Song:
             txt += f'{hyperlink}, '
         txt += "\n"
         return txt
-
+    def open_pdf(self, pdf_index = 0):
+        os.system(f'open "{self.pdfs[pdf_index]}"')
 
 
 
@@ -103,8 +130,8 @@ class SongLibrary:
             f.write(header + "\n")
             for song in self.songs:
                 f.write( str(song) )
-    def __iter__(self):
-        return self.songs
+    def __iter__(self, i):
+        return self.songs[i]
     def __add__(self, other): #allows adding an arbitrary n of songs to lib w/ addition
         if type(other) != list:
            other = [other]
@@ -112,6 +139,21 @@ class SongLibrary:
             if type(item) != Song: raise TypeError ("could not add non-song to library")
             self.songs.append(item)
         return self
+    def newsong(self, song_string):
+        self += Song(
+            song_string
+        )
+
+    def search_library(self, search_term):
+        song_names = [song.name for song in self.songs]
+        weights = [
+            SequenceMatcher(
+                None, name, search_term
+            ).ratio() for name in song_names
+        ]
+        best_result_index = weights.index(max(weights))
+        return self.songs[best_result_index]
+
 
 
 
